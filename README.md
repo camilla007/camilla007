@@ -1,9 +1,12 @@
-💫 About Me:
-Hi, I’m @camilla007 Camilla Buys (she/her), Developer since 2013. CTO since 2020.<be>
-I’m interested in fintech and insurtech innovation, Vim, Python, Linux and AWS.<be>
-I’m always learning more about coding and new topics in tech.<be>
-I’m looking to collaborate on any fun projects that fit my current interests.<be>
-How to reach me: @msfaceless on most platforms.
+**Camilla Buys** 
+_*Dev since 2013 | CTO since 2020*_
+*Python Ninja | Fintech & Insurtech Enthusiast*
+
+**Skills:** Vim, Python, Linux, AWS
+
+**Interests:** Building awesome stuff, learning new tricks, and maybe even saving the world (one line of code at a time).
+
+**Let's connect!** Find me on most platforms as **@msfaceless**.
 
 
 ## 🌐 Socials:
