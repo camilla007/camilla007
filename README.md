@@ -1,5 +1,6 @@
-**Camilla Buys** 
-_*Dev since 2013 | CTO since 2020 | Python Ninja | Fintech & Insurtech Enthusiast*_
+**Camilla Buys** (she/her)
+
+**About:** Developer since 2013, CTO since 2020
 
 **Skills:** Vim, Python, Linux, AWS
 
