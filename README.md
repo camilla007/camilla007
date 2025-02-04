@@ -1,11 +1,6 @@
 **Camilla Buys** (she/her)
-
 **About:** Developer since 2013, CTO since 2020
-
 **Skills:** Vim, Python, Linux, AWS
-
-**Interests:** Building awesome stuff, learning new tricks, and maybe even saving the world (one line of code at a time).
-
 **Let's connect!** Find me on most platforms as **@msfaceless**.
 
 
