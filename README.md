@@ -1,6 +1,9 @@
 **Camilla Buys** (she/her)
+
 **About:** Developer since 2013, CTO since 2020
+
 **Skills:** Vim, Python, Linux, AWS
+
 **Let's connect!** Find me on most platforms as **@msfaceless**.
 
 
